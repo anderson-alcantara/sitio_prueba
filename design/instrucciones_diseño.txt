@@ -1,0 +1,40 @@
+Sitio Web: Login de página 
+
+Form 1 
+Idea: Login 
+información: 
+-Titulo: Bienvenido! 
+-Titulo2: Log in 
+-Titulo3: Sign in 
+-Sub1: Usuario
+-Textbox para Usuario
+-Sub2: Contraseña 
+-Textbox para Contraseña
+-Button: Iniciar sesión 
+-Párrafo: Curso básico de PMI 
+-¿olvidaste tu contraseña? 
+
+
+Form 1.1  
+Idea: Sign in 
+información: 
+-Titulo: Bienvenido! 
+-Titulo2: Log in 
+-Titulo3: Sign in 
+-Sub1: Ingresa tu usuario 
+-Textbox para Usuario
+-Sub2: Ingresa tu contraseña 
+-Textbox para contraseña 
+-Sub3: Ingresa tu Email 
+-Textbox para Email
+-Button: Registarse 
+-Párrafo: Curso básico de PMI 
+
+Recursos:
+Texto: 
+HTML:
+<link href="https://fonts.googleapis.com/css?family=Inconsolata&display=swap" rel="stylesheet">
+CSS: 
+font-family: 'Inconsolata', monospace;
+Color: #962BB9
+Imágen: https://get.pxhere.com/photo/book-education-font-study-studying-product-design-school-learn-1376039.jpg
