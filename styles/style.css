@@ -1,0 +1,80 @@
+
+html {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-image: url("https://get.pxhere.com/photo/book-education-font-study-studying-product-design-school-learn-1376039.jpg");
+}
+
+body {
+
+    background-image: url("https://get.pxhere.com/photo/book-education-font-study-studying-product-design-school-learn-1376039.jpg");
+
+}
+
+#div_principal {
+
+    margin: 0px;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    width: 600px;
+    height: 400px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+
+#div1 {
+
+    color: white;
+    opacity: 0.8;
+    background-color: #712290;
+    width: 750px; 
+    height: 720px;
+    margin: 0px;
+    float: right;
+    padding: 10px;
+}
+
+
+
+h1 {
+
+    margin: 0px;
+    padding: 20px 0px 20px 0px ;
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 3px 3px 1px black;
+}
+
+h2 {
+
+    font-size: 30px;
+    padding: 0px 20px 0px 20px;
+    text-shadow: 2px 2px 1px  black;
+}
+
+p {
+    padding: 10px;
+    font-size: 10xp; 
+    line-height: 1;
+    letter-spacing: 1px;
+}
+
+.imagen1 {
+
+    padding: 0px 20px 0px 40px;
+    display: block;
+    margin: 0;
+    height: 200px;
+    width: 300px;
+}
+
+li {
+    list-style-type: none;
+  }
+
+.texto {
+
+    color: red;
+    text-align: center;
+    padding: 10px;
+}
